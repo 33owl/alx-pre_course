@@ -1,1 +1,1 @@
-ALX is the future
+Software engineering is cool.
